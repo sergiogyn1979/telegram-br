@@ -84,6 +84,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### DELPHI
 - [SHARING DELPHI BRASIL](https://telegram.me/joinchat/CBODLDxOQ58JOdNfHIRzBA)
 
+### LAZARUS / CODETYPHON
+- [LAZARUS - CODETYPHON (GRUPO LCT)](https://telegram.me/LazarusCodeTyphon)
+
 ### RUBY
 - [RUBY BRASIL](https://telegram.me/rubybrasil)
 
